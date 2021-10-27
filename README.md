@@ -1,2 +1,2 @@
 # crop-image-in-django
- Simple algorithm to crop images in Django
+Simple algorithm to crop images in Django
